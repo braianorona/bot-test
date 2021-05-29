@@ -1,0 +1,26 @@
+{
+  "name": "bot-test.js",
+  "version": "1.0.0",
+  "description": "bot-test",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braianorona/bot-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braianorona/bot-test/issues"
+  },
+  "homepage": "https://github.com/braianorona/bot-test#readme"
+}
